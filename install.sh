@@ -1,6 +1,6 @@
 #!/bin/bash
 # Council Decision Layer — Install Script
-# curl -fsSL https://antharmaya.com/council-decision-layer/install.sh | bash
+# curl -fsSL https://raw.githubusercontent.com/varbees/council-decision-layer/main/install.sh | bash
 #
 # Installs the Council Decision Layer for Hermes Agent:
 #   - council-decision-layer skill (5 decision patterns + question engine)
